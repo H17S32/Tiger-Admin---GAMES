@@ -1,1 +1,6 @@
-
+return {
+	["PrisonLife"] = 155615604,
+	["NaturalDisasterSurvival"] = 189707,
+	["Tower of Hell"]=1962086868,
+	["Arsenal"]=286090429.
+}
